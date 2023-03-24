@@ -1,0 +1,7 @@
+*** Automatic log integration
+Data file : C:\Users\Usuario\Documents\Practicas 4D\Proyecto.4dbase - respaldo 6\Proyecto.4DD
+Log file : C:\Users\Usuario\Documents\Practicas 4D\Proyecto.4dbase - respaldo 6\Proyecto.journal
+Starting : 22/03/2023 09:15
+Ending : 22/03/2023 09:15
+Result: OK
+
